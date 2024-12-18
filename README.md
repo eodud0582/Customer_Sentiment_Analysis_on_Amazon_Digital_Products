@@ -20,7 +20,7 @@ Products Analyzed:
   - DVD Players
 
 ## Methodology
-I used various machine learning techniques to classify sentiments:
+I used various machine learning techniques to classify sentiments:
 - Embedding methods: TF-IDF, BERT
 - Classifiers: Logistic Regression, Ensemble Voting
 - Performance Metric: Accuracy and Macro F1-score
