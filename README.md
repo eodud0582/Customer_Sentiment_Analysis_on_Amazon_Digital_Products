@@ -2,7 +2,7 @@
 ## A Study of Customer Reviews on Digital Products
 ---
 
-This project leverages natural language processing (NLP) and machine learning to understand customer sentiments in digital product reviews. By analyzing customer feedback, I aim to provide actionable insights for businesses to improve their products and customer experiences.
+This study leverages natural language processing (NLP) and machine learning to understand customer sentiments in digital product reviews. By analyzing customer feedback, I aim to provide actionable insights for businesses to improve their products and customer experiences.
 
 ## Key Features
 - Sentiment classification (positive/negative)
