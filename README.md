@@ -22,7 +22,9 @@ Products Analyzed:
 ## Methodology
 I used various machine learning techniques to classify sentiments:
 - Embedding methods: TF-IDF, BERT
-- Classifiers: Logistic Regression, Ensemble Voting (Logistic Regression, Support Vector Machine, Random Forest, XGBoost, K-Nearest Neighbors)
+- Classifiers:
+  - Logistic Regression
+  - Ensemble Voting (Logistic Regression, Support Vector Machine, Random Forest, XGBoost, K-Nearest Neighbors)
 - Performance Metric: Accuracy and Macro F1-score
 
 ## Key Findings
